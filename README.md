@@ -1,16 +1,17 @@
-## Hi there 👋
+¡Hola! 👋 Soy Emely Torres
 
-<!--
-**emelyjohanna42-glitch/emelyjohanna42-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy estudiante de **Informática** en CONALEP Tijuana II. Me apasiona el desarrollo de software y la resolución de problemas.
 
-Here are some ideas to get you started:
+- Actualmente estoy aprendiendo: **C++ y Bases de datos**.
+- Mis próximos objetivos: Aprender **Desarrollo web (HTML/CSS/JS)**.
+- Pregúntame sobre: **Soporte técnico, redes y macros de Excel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lo que hago
+- **Estoy aprendiendo C++**
+- **Herramientas:** Excel, aunque no tan avanzado y LaTex
+- **Sistemas Operativos:** Windows
+
+## Cómo contactarme 
+- **Correo:** emelyjohanna@gmail.com
+- **Mi perfil:** [Mi perfil] (https://github.com/emelyjohanna42-glitch)
